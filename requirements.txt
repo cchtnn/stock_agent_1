@@ -1,0 +1,8 @@
+crewai
+streamlit
+markdown
+pdfkit
+agentops
+yfinance
+email-to
+crewai-tools
